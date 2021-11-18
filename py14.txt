@@ -1,0 +1,8 @@
+Hello python
+java
+linux
+html
+css
+javascript
+jquery
+oracle database
